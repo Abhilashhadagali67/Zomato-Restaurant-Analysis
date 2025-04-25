@@ -4,3 +4,7 @@
 
 2. User Performance :
 ![Screenshot 2025-04-25 065405](https://github.com/user-attachments/assets/e7830c11-ccc4-4e75-91a0-8adb3bbdda57)
+
+
+3. CityWise Performance :
+![Screenshot 2025-04-25 065419](https://github.com/user-attachments/assets/9ff12e24-f15f-463f-b34d-686f292339dc)
